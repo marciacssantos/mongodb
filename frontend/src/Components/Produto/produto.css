@@ -1,0 +1,32 @@
+
+
+.box-produto{
+    display:block;
+    float: right;
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap:5px;
+    padding-bottom: 10%;
+    text-align: center;
+}
+.card{
+    width: 20%;
+    text-align: center;
+    margin-left: 0px;
+    margin-bottom: 25px;
+
+    padding-bottom: 5px;
+    align-content: center;
+    
+
+}
+
+.strike{
+    color: red;
+}
+
+.btn{
+    width: 60%;
+
+}

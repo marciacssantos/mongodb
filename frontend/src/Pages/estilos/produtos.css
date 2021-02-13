@@ -1,0 +1,9 @@
+.categ{
+    position: relative;
+    float: left;
+}
+
+.prod{
+    position: relative;
+    float: right;
+}

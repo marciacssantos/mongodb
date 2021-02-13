@@ -1,0 +1,16 @@
+.nav-item{
+    display: flex;
+    justify-content: center;
+}
+
+.active{
+    border-bottom:  2px solid rgba(228, 228, 31, 0.9);
+}
+
+.link, .link:hover{
+    color: rgba(228, 228, 31, 0.9);
+
+}
+
+
+
